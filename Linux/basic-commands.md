@@ -136,3 +136,6 @@ Basic Linux commands are essential for navigating directories and managing files
 ## Summary
 
 These basic commands are essential for navigating and managing files in Linux. They are widely used by system administrators, developers, and cybersecurity professionals.
+## Screenshot
+
+![Linux Basic Commands](documentation.png)
