@@ -23,14 +23,15 @@ My goal is to become a Cybersecurity Analyst by continuously learning Linux, Net
 
 - 📂 Linux
 - 📂 Networking
+- 📂 Git
+- 📂 Python
 - 📂 Nmap
 - 📂 Wireshark
 - 📂 BurpSuite
 - 📂 WebSecurity
-- 📂 Python
 - 📂 CTF
 - 📂 Notes
 
 ---
 
-> This repository documents my learning journey through practical exercises and hands-on cybersecurity labs.
+> This repository documents my learning journey through practical exercises and hands-on cybersecurity labs. 
