@@ -1,17 +1,85 @@
-# Linux
+# Linux Basics
 
-## Tujuan
-Folder ini berisi catatan dan praktik saya selama belajar Linux untuk Cybersecurity.
+## About
 
-## Materi yang akan dipelajari
-- Basic Linux Commands
-- File & Directory Management
-- File Permissions
-- Users & Groups
-- Bash Scripting
+This folder contains my notes and hands-on practice while learning Linux for Cybersecurity.
+
+## Commands Learned
+
+### 1. pwd
+**Print Working Directory**
+
+Shows the current directory.
+
+Example:
+
+```bash
+pwd
+```
+
+---
+
+### 2. ls
+**List**
+
+Displays files and folders in the current directory.
+
+Example:
+
+```bash
+ls
+```
+
+---
+
+### 3. cd
+**Change Directory**
+
+Moves to another directory.
+
+Example:
+
+```bash
+cd Linux
+```
+
+Go back one directory:
+
+```bash
+cd ..
+```
+
+---
+
+### 4. mkdir
+**Make Directory**
+
+Creates a new folder.
+
+Example:
+
+```bash
+mkdir Practice
+```
+
+---
+
+### 5. touch
+
+Creates an empty file.
+
+Example:
+
+```bash
+touch notes.txt
+```
+
+---
 
 ## Progress
-- [ ] Basic Commands
-- [ ] File Management
-- [ ] Permissions
-- [ ] Bash Script
+
+- ✅ pwd
+- ✅ ls
+- ✅ cd
+- ✅ mkdir
+- ✅ touch
