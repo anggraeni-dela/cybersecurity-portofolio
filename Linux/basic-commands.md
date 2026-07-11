@@ -85,6 +85,24 @@ touch notes.txt
 
 ---
 
+## Practice
+
+Commands executed:
+
+```bash
+pwd
+ls
+mkdir Practice
+cd Practice
+touch notes.txt
+ls
+cd ..
+```
+
+Result:
+
+Successfully created a directory, navigated into it, created a file, and listed its contents.
+
 ## Summary
 
 These basic commands are essential for navigating and managing files in Linux. They are widely used by system administrators, developers, and cybersecurity professionals.
