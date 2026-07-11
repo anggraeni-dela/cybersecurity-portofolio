@@ -103,6 +103,36 @@ Result:
 
 Successfully created a directory, navigated into it, created a file, and listed its contents.
 
+## Practice
+
+Environment:
+- Operating System: Kali Linux
+
+Commands executed:
+
+```bash
+pwd
+ls
+mkdir Practice
+cd Practice
+touch notes.txt
+ls
+cd ..
+```
+
+### Results
+
+- Displayed the current working directory using `pwd`.
+- Listed files and directories using `ls`.
+- Created a new directory named `Practice`.
+- Entered the `Practice` directory.
+- Created a file named `notes.txt`.
+- Verified the file using `ls`.
+- Returned to the previous directory.
+
+### Conclusion
+
+Basic Linux commands are essential for navigating directories and managing files. These commands form the foundation for many cybersecurity tasks performed in Linux environments.
 ## Summary
 
 These basic commands are essential for navigating and managing files in Linux. They are widely used by system administrators, developers, and cybersecurity professionals.
