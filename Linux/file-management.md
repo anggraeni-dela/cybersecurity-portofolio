@@ -61,3 +61,7 @@ Successfully copied, renamed, deleted, and verified files using Linux commands.
 ## Conclusion
 
 Linux file management commands are essential for organizing files efficiently and are frequently used in system administration and cybersecurity.
+
+## Screenshot
+
+![Linux File Management](file-management.png)
